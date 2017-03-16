@@ -1,2 +1,2 @@
 # Music_Assist_ES
-Code for a Music Assist Embedded System
+Repo for a Music Assist Embedded System
